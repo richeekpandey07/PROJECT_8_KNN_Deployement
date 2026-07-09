@@ -104,5 +104,6 @@ st.markdown(
 st.markdown("---")
 st.markdown(
     "👨‍💻 Created by **Richeek Pandey** | "
-    "🔗 GitHub:  https://github.com/richeekpandey07    | 💼 LinkedIn: www.linkedin.com/in/richeek-pandey-9954783a9 "
+    "🔗 GitHub:  https://github.com/richeekpandey07    
+    💼 LinkedIn: www.linkedin.com/in/richeek-pandey-9954783a9 "
 )
